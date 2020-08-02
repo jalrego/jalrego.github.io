@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: João Alberto Rego
 title: Data Analyst
 email: joao.al.rego@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
 # twitter_username: facespics
@@ -26,6 +26,7 @@ about_profile_image: images/CV_Photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is João, I am a Junior Data Analyst and a technology and finance enthusiastic motivated by challenges that require analytical and design thinking.
 
+
   <mark>Creative</mark>, <mark>Communicative</mark>, <mark>Dynamic</mark> and <mark>Teamwork</mark> are some words that can be used to describe me.
 
 # Projects Section
@@ -40,18 +41,17 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - I have done regular voluteer work in the National Scouts Organization and in the Food Bank for 15 years. Also made part of the Lisbon Animal Shelter volunteer team for 2 years.
+   
+   My hobbies are:
+   
 
 # Footer
 footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
+darkmode: true
 sass:
   sass_dir: _sass
   style: compressed
