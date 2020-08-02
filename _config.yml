@@ -48,9 +48,9 @@ more_content: | # this will include new lines to allow paragraphs
    - 
 
    Languages:
-   <mark>Portuguese</mark> - Native Speaker
-   <mark>English</mark> - Cambridge FCE B2 Level
-   <mark>Spanish</mark> - B1 Spoken and Written
+   - <mark>Portuguese</mark> - Native Speaker
+   - <mark>English</mark> - Cambridge FCE B2 Level
+   - <mark>Spanish</mark> - B1 Spoken and Written
 
 
 # Footer
@@ -58,7 +58,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-darkmode: false
 sass:
   sass_dir: _sass
   style: compressed
