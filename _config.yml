@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/favicon.png
 
 # Personal info
 name: João Alberto Rego
@@ -24,7 +24,7 @@ linkedin_username: joaoalbertorego
 # about_title: About Me
 about_profile_image: images/CV_Photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is João, I am a Junior Data Analyst and a technology and finance enthusiastic motivated by challenges that require analytical and design thinking.
+  A Junior Data Analyst and a technoloy and finance egnthusiastic motivated by challenges that require analytical and design thinking.
 
 
   <mark>Creative</mark>, <mark>Communicative</mark>, <mark>Dynamic</mark> and <mark>Teamwork</mark> are some words that can be used to describe me.
@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: Information
 
 # Experience Section
-# experience_title: Experience
+experience_title: Professional Experience
 
 # Education Section
 # educaton_title: Education
@@ -41,16 +41,17 @@ projects_title: Information
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - I have done regular voluteer work in the National Scouts Organization and in the Food Bank for 15 years. Also made part of the Lisbon Animal Shelter volunteer team for 2 years.
+   - I have done regular voluteer work in the National Scouts Organization and in the Food Bank for 15 years. 
+     Also made part of the Lisbon Animal Shelter volunteer team for 2 years.
    
-   My hobbies are:
+   My <b>hobbies</b> are:
    - Traveling 
    - 
 
-   Languages:
-   - <mark>Portuguese</mark> - Native Speaker
-   - <mark>English</mark> - Cambridge FCE B2 Level
-   - <mark>Spanish</mark> - B1 Spoken and Written
+   <b>Languages</b>:
+   - Portuguese - Native Speaker
+   - English - Cambridge FCE B2 Level
+   - Spanish - B1 Spoken and Written
 
 
 # Footer
