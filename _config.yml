@@ -26,8 +26,7 @@ about_profile_image: images/CVPhoto.jpg
 about_content: | # this will include new lines to allow paragraphs
   A Junior Data Analyst and a technology and finance enthusiastic, motivated by challenges that require analytical and design thinking.
 
-
-  <mark>Creative</mark>, <mark>Communicative</mark>, <mark>Dynamic</mark> and <mark>Teamwork</mark> are some words that can be used to describe me.
+  <b>Creative</b>, <b>Communicative</b>, <b>Dynamic</b> and <b>Teamwork</b> are some words that can be used to describe me.
 
 # Projects Section
 projects_title: Information
@@ -47,7 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
    Offwork I like to:
    - Travel
 
-   <mark>Languages</mark>:
+   <mark>Languages Spoken</mark>
    - <b>Portuguese</b> - Native Speaker
    - <b>English</b> - Cambridge FCE B2 Level
    - <b>Spanish</b> - B1 Spoken and Written
