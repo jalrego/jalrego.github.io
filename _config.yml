@@ -22,9 +22,9 @@ linkedin_username: joaoalbertorego
 
 # About Section
 # about_title: About Me
-about_profile_image: images/CV_Photo.jpg
+about_profile_image: images/CVPhoto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A Junior Data Analyst and a technoloy and finance egnthusiastic motivated by challenges that require analytical and design thinking.
+  A Junior Data Analyst and a technology and finance enthusiastic, motivated by challenges that require analytical and design thinking.
 
 
   <mark>Creative</mark>, <mark>Communicative</mark>, <mark>Dynamic</mark> and <mark>Teamwork</mark> are some words that can be used to describe me.
@@ -41,17 +41,16 @@ experience_title: Professional Experience
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - I have done regular voluteer work in the National Scouts Organization and in the Food Bank for 15 years. 
+   - I have done regular <b>voluteer</b> work in the National Scouts Organization and in the Food Bank for 15 years. 
      Also made part of the Lisbon Animal Shelter volunteer team for 2 years.
    
-   My <b>hobbies</b> are:
-   - Traveling 
-   - 
+   Offwork I like to:
+   - Travel
 
-   <b>Languages</b>:
-   - Portuguese - Native Speaker
-   - English - Cambridge FCE B2 Level
-   - Spanish - B1 Spoken and Written
+   <mark>Languages</mark>:
+   - <b>Portuguese</b> - Native Speaker
+   - <b>English</b> - Cambridge FCE B2 Level
+   - <b>Spanish</b> - B1 Spoken and Written
 
 
 # Footer
