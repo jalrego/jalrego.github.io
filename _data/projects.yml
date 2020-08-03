@@ -3,12 +3,10 @@
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
+    Programming Languages that I have had contact with 
+  description: | # this will include new lines to allow paragraphs
+    <mark>SAS</mark>   <mark>SQL/MySQL</mark>   <mark>R</mark>   <mark>Java</mark>  <mark>Data Analysis Expressions (DAX)</mark>   <mark>Python</mark>   <mark>Perl</mark>   <mark>Linux</mark>
+  quote: >
     Software that I have worked with 
   description: | # this will include new lines to allow paragraphs
-    <mark>SAS</mark>
-    <mark>SQL/MySQL</mark>
-    <mark>R</mark>
-    <mark>Java</mark>
-    <mark>Python</mark>
-    <mark>Perl</mark>
-    <mark>Linux</mark>
+    <mark>Power BI (DAX)</mark>   <mark>SAS / SAS Enterprise Miner</mark>   <mark>SQL Server (SSMS, SSAS)</mark>   <mark>ArcGIS</mark>  <mark>Microsoft Office (Excel - VBA)</mark>   
