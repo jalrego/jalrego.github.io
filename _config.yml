@@ -30,6 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   [Curriculum Vitae (August 2020)](https://drive.google.com/file/d/1TZQo7eyOTeNSgxa1GzMDhb4VesGgUrIG/view?usp=sharing)
 
+  <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="joaoalbertorego"><a class="LI-simple-link" href='https://pt.linkedin.com/in/joaoalbertorego?trk=profile-badge'>João Alberto Rego</a></div>
+
 # Projects Section
 projects_title: Technical Skills
 
