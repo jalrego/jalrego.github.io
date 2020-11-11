@@ -1,4 +1,13 @@
 - layout: left
+  company: BNP Paribas 
+  link: group.bnpparibas/en/
+  job_title: Data Analyst
+  dates: September 2020 - Present
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
   company: NOS SGPS Enterprise Solutions 
   link: nos.pt
   job_title: IT Service Management Analyst
